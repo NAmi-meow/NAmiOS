@@ -58,9 +58,26 @@ Custom kernel, custom bootloader, custom everything — for maximum control and 
 ---
 
 ## 🛠️ Building NAmiOS
-> **Note:** The build system is under active development. Instructions will be published as soon as the first public image is ready.
-
 ```bash
 git clone https://github.com/NAmi-meow/NAmiOS.git
 cd NAmiOS
 python3 build.py run
+```
+
+## 🗺️ Roadmap
+- [ ] Bootloader
+- [ ] Simple 32-bit Kernel
+- [ ] Terminal
+- [ ] 64-bit mode
+- [ ] Video mode
+- [ ] File System
+- [ ] .nbe files (executable files)
+- [ ] .nep files (install [package) + Installer
+
+## 👥 Credits
+Made with love and tea by NAmi-meow:
+Naka – system architecture, kernel, drivers, binary translator, everything low‑level.
+Ami – UI/UX design, themes, visual identity, and making the terminal look cute.
+
+## 📜 License
+NAmiOS is open source, licensed under the [MIT License](license.md).
