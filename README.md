@@ -81,3 +81,5 @@ Ami – UI/UX design, themes, visual identity, and making the terminal look cute
 
 ## 📜 License
 NAmiOS is open source, licensed under the [MIT License](license.md).
+
+<p align="center"><i>We are building the OS we always wanted to use. 🐾</i></p>
