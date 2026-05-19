@@ -72,7 +72,7 @@ python3 build.py run
 - [ ] Video mode
 - [ ] File System
 - [ ] .nbe files (executable files)
-- [ ] .nep files (install [package) + Installer
+- [ ] .nep files (install package) + Installer
 
 ## 👥 Credits
 Made with love and tea by NAmi-meow:
@@ -80,6 +80,6 @@ Naka – system architecture, kernel, drivers, binary translator, everything low
 Ami – UI/UX design, themes, visual identity, and making the terminal look cute.
 
 ## 📜 License
-NAmiOS is open source, licensed under the [MIT License](license.md).
+NAmiOS is open source, licensed under the [MIT License](LICENSE.md).
 
 <p align="center"><i>We are building the OS we always wanted to use. 🐾</i></p>
