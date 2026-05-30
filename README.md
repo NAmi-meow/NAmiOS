@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-alpha-orange?style=flat" />
-  <img src="https://img.shields.io/badge/architecture-x86__64-blue?style=flat&logo=intel" />
+  <img src="https://img.shields.io/badge/architecture-x86__64-blue?style=flat" />
+  <img src="https://img.shields.io/badge/architecture-AArch64-pink?style=flat" />
   <img src="https://img.shields.io/badge/platform-cross-red?style=flat" />
   <img src="https://img.shields.io/badge/license-GPLv3-blue?style=flat" />
   <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F%20by%20NAmi--meow-ff69b4?style=flat" />
